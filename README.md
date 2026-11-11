@@ -4,7 +4,7 @@ Four interactive, single-file study dashboards for digital marketing professiona
 
 | Dashboard | Open online | What it covers | File |
 |---|---|---|---|
-| 📊 **Marketing Science** | [novrisuhermi-marketing-science](https://novrisuhermi-marketing-science.share.connect.posit.cloud) | Goals and KPIs, hypotheses, A/B and lift tests, attribution, regression, marketing mix models, SQL | `index.html` |
+| 📊 **Marketing Science** | [novrisuhermi-marketing-science](https://novrisuhermi-marketing-science.share.connect.posit.cloud) | Goals and KPIs, hypotheses, A/B and lift tests, attribution, regression, marketing mix models, SQL | `marketing-science/index.html` |
 | 🛒 **Media Buying** | [novrisuhermi-buying](https://novrisuhermi-buying.share.connect.posit.cloud) | Campaign setup, objectives, buying types and the ad auction, signals and audiences, creative, reporting | `buying/index.html` |
 | 🗓️ **Media Planning** | [novrisuhermi-planning](https://novrisuhermi-planning.share.connect.posit.cloud) | Campaign elements, buying types, objectives, budget, audiences, placements, creative, measurement, privacy, brand safety, ad review | `planning/index.html` |
 | 💬 **Business Messaging** | [novrisuhermi-messaging](https://novrisuhermi-messaging.share.connect.posit.cloud) | Messaging solutions and policies, message categories, goals and journeys, the maturity model, partners and onboarding, testing | `messaging/index.html` |
@@ -13,7 +13,7 @@ Four interactive, single-file study dashboards for digital marketing professiona
 
 ## ✨ What every dashboard offers
 
-- **Learning steps** that follow the exam’s structure, each with short lessons, inline knowledge checks and a progress ring that marks a step done once every section has been opened.
+- **Learning steps** that follow the exam’s structure, each with short lessons and inline knowledge checks. Opened sections are ticked, and the step cards on the home page show how far you have read.
 - **Interactive labs** where you change the inputs and watch the results move: simulators, calculators, sorting games and decision pickers.
 - **Practice:** scenario questions in the style of the exam, with shuffled answers, instant explanations and study guide page references, plus flashcards built from the glossary.
 - **Reference:** a cheat sheet of the numbers, rules and frameworks worth knowing cold, and a searchable glossary.
@@ -78,10 +78,10 @@ Four labs:
 
 ```
 marketing/
-├── index.html              # Marketing Science
-├── buying/index.html       # Media Buying
-├── planning/index.html     # Media Planning
-├── messaging/index.html    # Business Messaging
+├── marketing-science/index.html   # Marketing Science
+├── buying/index.html              # Media Buying
+├── planning/index.html            # Media Planning
+├── messaging/index.html           # Business Messaging
 └── README.md
 ```
 
