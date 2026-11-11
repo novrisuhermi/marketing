@@ -1,5 +1,7 @@
 # Marketing Science — Interactive Study Dashboard
 
+**▶ Open the dashboard: [novrisuhermi-marketing-science.share.connect.posit.cloud](https://novrisuhermi-marketing-science.share.connect.posit.cloud)**
+
 An interactive, single-file dashboard for learning marketing science: how to turn a business goal into a measurable KPI, design experiments that prove causality, read statistical output with confidence, and turn results into recommendations that decision makers can act on.
 
 It is organized around the five domains of the **Marketing Science Professional** exam and is built for self-study, classroom teaching and team training. Everything runs in the browser, works offline and can be embedded in any website.
@@ -46,18 +48,18 @@ Every step combines short lessons with inline knowledge checks, and a progress r
 
 ## 🚀 Getting started
 
+**Use it online.** The dashboard is hosted on Posit Connect Cloud at <https://novrisuhermi-marketing-science.share.connect.posit.cloud>. There is nothing to install, and it works on phones, tablets and laptops.
+
 **Open it locally.** Download `index.html` and open it in any modern browser (Chrome, Edge, Safari or Firefox). No installation or internet connection is needed.
 
-**Publish with GitHub Pages.** In *Settings → Pages*, choose *Deploy from a branch*, then select `main` and `/ (root)`. The dashboard will be served at `https://novrisuhermi.github.io/marketing/`.
-
-**Embed it in a website** such as Google Sites, a learning management system or a blog, with an iframe that points to the published page:
+**Embed it in a website** such as Google Sites, a learning management system or a blog, with an iframe:
 
 ```html
-<iframe src="https://novrisuhermi.github.io/marketing/" width="100%" height="900"
+<iframe src="https://novrisuhermi-marketing-science.share.connect.posit.cloud" width="100%" height="900"
         style="border:0;border-radius:16px" title="Marketing Science"></iframe>
 ```
 
-**Link straight to a section** by adding a hash to the address:
+**Link straight to a section.** The dashboard reads the part of the address after `#`, so a link such as `index.html#lab-lift` opens that page directly:
 
 | Add to the address | Opens |
 |---|---|
