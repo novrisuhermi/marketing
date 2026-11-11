@@ -27,11 +27,21 @@ Six labs: a conversion lift and A/B test simulator (including the *baseline trap
 
 ## 🛒 Media Buying
 
-Lessons follow the buying workflow, from activating campaigns in Ads Manager and managing assets in Business Suite to campaign objectives, auction and reservation buying, signals and data sources, audience creation, creative strategy, and reporting and measurement. Labs let you run an ad auction and explore the decisions buyers make every day.
+Five steps: **Activate and manage, Objectives, Buying types and bidding, Signals and audiences, Creative and reporting.**
+Four labs:
+- **Ad auction:** set your bid, estimated action rate and ad quality against three rival ads, and see that the highest total value wins, not the highest bid.
+- **Budget strategy:** spread a budget across three ad sets and compare an even split, ad set budget sharing and Advantage+ campaign budget.
+- **Learning phase check:** see whether each ad set can reach 50 optimization events a week, and what to change if it can’t.
+- **Bid strategy picker:** two questions lead to highest volume, highest value, cost per result goal, ROAS goal or bid cap, with setup notes.
 
 ## 🗓️ Media Planning
 
-Lessons cover the planner’s toolkit: core campaign elements, buying types, objectives, budgets, audiences, placements, ad creative, reporting and measurement, and the guardrails of data privacy, brand safety and ad review. Labs let you plan reach and frequency and budgets.
+Six steps: **Campaign elements, Buying and objectives, Budget, Audiences and placements, Creative and measurement, Privacy, safety and review.**
+Four labs:
+- **Auction budget planner:** turn a daily sales goal into orders and an estimated minimum budget, as in the study guide’s worked example.
+- **Reservation budget planner:** turn audience size, reach, frequency and duration into impressions and a budget at a fixed CPM.
+- **Budget pacing:** follow a day of auctions under a bid cap and compare standard with accelerated delivery.
+- **Liquidity check:** rate placements, audience, budget, bid and optimization event to see how much room the delivery system has.
 
 ## 💬 Business Messaging
 
@@ -55,7 +65,7 @@ Four labs:
         style="border:0;border-radius:16px" title="Business Messaging"></iframe>
 ```
 
-**Link straight to a section.** Each dashboard reads the part of the address after `#`, so a link such as `index.html#practice/quiz` opens that page directly. Every dashboard has `#practice/quiz`, `#practice/cards`, `#cheatsheet` and `#glossary`, plus one address per lesson and lab (for example `#lab-window` in Business Messaging).
+**Link straight to a section.** Each dashboard reads the part of the address after `#`, so a link such as `index.html#practice/quiz` opens that page directly. Every dashboard has `#practice/quiz`, `#practice/cards`, `#cheatsheet` and `#glossary`, plus one address per lesson and lab (for example `#lab-auction` in Media Buying or `#lab-window` in Business Messaging).
 
 ## 🛠️ Under the hood
 
