@@ -14,6 +14,7 @@ Four interactive, single-file study dashboards for digital marketing professiona
 ## ✨ What every dashboard offers
 
 - **Learning steps** that follow the exam’s structure, each with short lessons and inline knowledge checks. Opened sections are ticked, and the step cards on the home page show how far you have read.
+- **Visual-first lessons:** interface mockups, ad and chat previews, and charts carry the explanation; longer text sits behind *More detail*, so each card leads with the picture.
 - **Interactive labs** where you change the inputs and watch the results move: simulators, calculators, sorting games and decision pickers.
 - **Practice:** scenario questions in the style of the exam, with shuffled answers, instant explanations and study guide page references, plus flashcards built from the glossary.
 - **Reference:** a cheat sheet of the numbers, rules and frameworks worth knowing cold, and a searchable glossary.
@@ -24,10 +25,12 @@ Four interactive, single-file study dashboards for digital marketing professiona
 
 Five steps: **Assess, Hypothesize, Recommend measurement, Perform an analysis, Make recommendations.**
 Six labs: a conversion lift and A/B test simulator (including the *baseline trap*), attribution models, a marketing mix model with a 10% budget-cut game, regression, SQL joins and a query builder, and a measurement method picker.
+Lesson visuals show how browser and server events are deduplicated, how to read an A/B test result, and how attribution windows count conversions.
 
 ## 🛒 Media Buying
 
 Five steps: **Activate and manage, Objectives, Buying types and bidding, Signals and audiences, Creative and reporting.**
+Visuals include an annotated ads manager mockup, ad previews for nine placements and six formats, the 9:16 safe zone, approved-versus-rejected ad pairs, attribution windows, and a Pixel and Conversions API diagram.
 Four labs:
 - **Ad auction:** set your bid, estimated action rate and ad quality against three rival ads, and see that the highest total value wins, not the highest bid.
 - **Budget strategy:** spread a budget across three ad sets and compare an even split, ad set budget sharing and Advantage+ campaign budget.
@@ -37,6 +40,7 @@ Four labs:
 ## 🗓️ Media Planning
 
 Six steps: **Campaign elements, Buying and objectives, Budget, Audiences and placements, Creative and measurement, Privacy, safety and review.**
+Visuals include the ads manager mockup, a placement switcher, an ad size and text-length checker, reach and frequency curves, brand safety controls and approved-versus-rejected ads.
 Four labs:
 - **Auction budget planner:** turn a daily sales goal into orders and an estimated minimum budget, as in the study guide’s worked example.
 - **Reservation budget planner:** turn audience size, reach, frequency and duration into impressions and a budget at a fixed CPM.
@@ -46,8 +50,9 @@ Four labs:
 ## 💬 Business Messaging
 
 Five steps: **Solutions and policies, Goals and journeys, Maturity model, Partners and onboarding, Measure and optimize.**
+Visuals include a click-to-WhatsApp journey, a gallery of message types from utility to payments, a template builder that checks the platform’s limits, the messaging journey map and the maturity staircase.
 Four labs:
-- **Conversation windows:** step through a WhatsApp timeline to see when the 24-hour customer service window is open, which conversation categories open and when a template is required.
+- **Conversation windows:** step through a WhatsApp timeline to see when the 24-hour customer service window is open, when a template is required, and what each message costs under the study guide’s model and the per-message pricing in force since July 2025 and October 2026.
 - **Click-to-message funnel:** model ads that click to message from impressions to conversations, leads and purchases, with cost per result and return on ad spend.
 - **Maturity check:** answer six questions to place a business on the five-phase maturity model, with focus areas and next steps.
 - **Journey designer:** build a messaging journey from business outcome to entry point, in-thread experience and conversion point, and check that the pieces fit.
@@ -69,6 +74,7 @@ Four labs:
 
 ## 🛠️ Under the hood
 
+- **Original illustrations:** interface mockups are schematic drawings with fictitious brands, not screenshots of any product.
 - **Self-contained:** HTML, CSS and JavaScript live in one file per dashboard. The only optional external request is the Inter web font, which loads without blocking the page and falls back to the system font.
 - **No libraries:** charts are hand-built SVG, and formulas are native MathML.
 - **Responsive and accessible:** from phones to wide screens, with keyboard navigation, visible focus states, screen-reader labels and support for reduced motion.
